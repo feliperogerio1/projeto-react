@@ -1,0 +1,23 @@
+.women-container {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+}
+
+.women-img {
+    width: 200px; 
+    height: 200px;
+}
+
+.btn-container {
+    padding: 10px; 
+    display: flex; 
+    align-items: center;
+}
+
+.count-container {
+    padding: 10px 40px; 
+    border: solid; 
+    border-radius: 10px; 
+    font-size: 25px;
+}
